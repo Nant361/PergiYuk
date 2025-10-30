@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maps Planner</string>
+    <string name="prompt_hint">Tulis preferensi perjalananmu…</string>
+    <string name="generate_plan">Buat Rencana</string>
+    <string name="use_current_location">Gunakan Lokasi Saat Ini</string>
+    <string name="reset">Reset</string>
+    <string name="timeline">Timeline</string>
+    <string name="export">Ekspor</string>
+</resources>

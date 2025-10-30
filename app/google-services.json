@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605606180546",
+    "project_id": "ferrous-tine-472911-k8",
+    "storage_bucket": "ferrous-tine-472911-k8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605606180546:android:79ceb212589d132f3ded5b",
+        "android_client_info": {
+          "package_name": "com.example.mapsplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605606180546-nov8ncdtr7871gh6qkf074d571nveoe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapsplanner",
+            "certificate_hash": "dbd468484f8de6896f6020d813b19b2dd44a35fc"
+          }
+        },
+        {
+          "client_id": "605606180546-3alrinf4l5e94a0kvrja5hi6c69ptlfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dPCqRaEIeHhmukFzaPjW2JdsXvIgtBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605606180546-3alrinf4l5e94a0kvrja5hi6c69ptlfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+.DS_Store
+/.gradle/
+/.kotlin/
+/build/
+/local.properties
+/.idea/
+/*.iml
+/captures/
+/externalNativeBuild/
+/.cxx/
+/app/build/
+/secrets.properties
+
+# Android Studio Profiling
+/app/profile/
+/profile/
