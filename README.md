@@ -1,6 +1,6 @@
-# Maps Planner Android
+# PergiYuk Android
 
-Versi aplikasi Android dari proyek web *maps-plannerr*, dibangun dengan Kotlin, Jetpack Compose, dan Google Maps untuk Android. Aplikasi ini mempertahankan alur kerja web: pengguna memberikan prompt atau memakai lokasi saat ini, aplikasi memanggil Gemini (Generative AI) untuk menyusun itinerary harian, lalu menampilkannya pada peta beserta garis penghubung setiap perhentian. Timeline juga tersedia dalam bentuk lembar bawah (bottom sheet) dan daftar kartu.
+Versi aplikasi Android dari proyek web *PergiYuk*, dibangun dengan Kotlin, Jetpack Compose, dan Google Maps untuk Android. Aplikasi ini mempertahankan alur kerja web: pengguna memberikan prompt atau memakai lokasi saat ini, aplikasi memanggil Gemini (Generative AI) untuk menyusun itinerary harian, lalu menampilkannya pada peta beserta garis penghubung setiap perhentian. Timeline juga tersedia dalam bentuk lembar bawah (bottom sheet) dan daftar kartu.
 
 ## Fitur utama
 - Peta Google Maps dengan marker berurutan dan polyline tiap rute.
