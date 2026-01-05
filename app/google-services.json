@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408396268724",
+    "project_id": "mineral-actor-481823-d1",
+    "storage_bucket": "mineral-actor-481823-d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408396268724:android:08f27141bc1cd33d62c3e1",
+        "android_client_info": {
+          "package_name": "com.example.mapsplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408396268724-3khvc05d738aibg1p3b1a5bv845i0ner.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapsplanner",
+            "certificate_hash": "fa93b1bdc7fd622eb6560272ffd042f6ea4055c4"
+          }
+        },
+        {
+          "client_id": "408396268724-p280g0ms3onp4260uv6rtdnr88frg8vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408396268724-p280g0ms3onp4260uv6rtdnr88frg8vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
